@@ -1,7 +1,6 @@
 ## Hey 👋, I'm Yohan Lee!
 
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
 
@@ -14,6 +13,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 - 🔭 &nbsp; I’m currently studying in **Naver Boostcamp AI Tech**
 - 🌱 &nbsp; I’m currently DL(Speech, NLP) and MLOps
+- 📝 &nbsp; Watch my [blog](https://l-yohai.github.io)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/l-yohai?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 
