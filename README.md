@@ -6,7 +6,6 @@
 <tr>
 <td valign="top" width="50%">
 
-<td valign="top" width="50%">
 
 #### 🤹‍♀️ <a href="https://l-yohai.github.io/" target="_blank">Hot Blog</a>
 
@@ -19,6 +18,8 @@
 <!-- blog ends -->
 
 </td>
+
+<td valign="top" width="50%">
 
 #### 🏋️‍♀️ <a href="" target="_blank">Recent Works</a>
 
