@@ -30,9 +30,6 @@
 
 </a>
 
-<br>
-
-![](https://gist.github.com/l-yohai/d91fcd85e2e19b1ffa60257f49ef4e29)
 <!--
 **l-yohai/l-yohai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
