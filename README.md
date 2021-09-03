@@ -19,6 +19,7 @@
 <!-- blog ends -->
 
 </td>
+
 #### 🏋️‍♀️ <a href="" target="_blank">Recent Works</a>
 
 <!-- recent_releases starts -->
@@ -47,7 +48,7 @@ Jupyter Notebook   21 mins  █████▒░░░░░░░░░░░�
 </td>
 <td valign="top" width="50%">
 
-#### 🤾‍♂️ <a href="https://gist.github.com/l-yohai/d91fcd85e2e19b1ffa60257f49ef4e29" target="_blank">Funny Soul</a>
+#### 🤾‍♂️ <a href="https://gist.github.com/l-yohai/d91fcd85e2e19b1ffa60257f49ef4e29" target="_blank">Code time</a>
 
 <!-- time starts -->
 ```
