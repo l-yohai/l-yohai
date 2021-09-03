@@ -5,8 +5,10 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br/>
 <br/>
 
-<div>
 <img align="right" alt="GIF" src="Code typing.gif" width="360px"/>
+
+<br>
+<br>
 
 ### 🧐 More About Me:
 
@@ -16,8 +18,10 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/l-yohai?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 
-</div>
 
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
