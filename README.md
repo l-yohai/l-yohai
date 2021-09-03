@@ -1,49 +1,37 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=l-yohai.l-yohai">
+## Hey 👋, I'm Rahul Jha!
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Yohan+Lee....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+
+I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+<br/>
+<br/>
+
+<img align="right" alt="GIF" src="Code typing.gif" width="360px"/>
+  
+### 🧐 More About Me:
+
+- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
+- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/l-yohai/sheets-database)
+- 🌱 &nbsp; I’m currently DL(Speech, NLP) and MLOps;
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/l-yohai?tab=repositories)
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 
 <br>
-<p align="center">
-  Hi, I'm Yohan Lee, Deeplearning Engineer & Software Developer.
-  <br>
-  <br>
-  🔬 I'm currently studying in Naver Boostcamp AI Tech
-  <br>
-  🎓 I graduated from Yonsei University Germanistik Department and Cognitive Science.
-  <br>
-  💻 I love writing code and play the piano.
-  <br>
-  📚 I’m currently learning MLOps and Deeplearning.
-  <br>
-  📫 How to reach me: <a href="mailto: yohan9612@yonsei.ac.kr">yohan9612@yonsei.ac.kr</a>
-</p>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+### 🔨 Languages and Tools:
+<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/l-yohai/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
+<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/l-yohai/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/l-yohai/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+
 <br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=l-yohai&theme=react&border=61dafb&hide_border=true" alt="l-yohai" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=l-yohai&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-yohai&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=l-yohai&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
 
-<hr>
+
+### 📊 Github Stats
+<a href='https://github.com/l-yohai/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/l-yohai/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/l-yohai/github-stats-transparent/output/generated/languages.svg)
+
+</a>
 
 
 <!--
