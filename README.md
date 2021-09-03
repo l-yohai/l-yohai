@@ -14,6 +14,10 @@
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/l-yohai?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 
+---
+
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help
+
 
 <br>
 <br>
