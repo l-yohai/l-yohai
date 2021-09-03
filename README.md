@@ -8,16 +8,19 @@
 
 ### 🧐 More About Me:
 
+- 🌱 &nbsp; I’m Deeplearning Engineer.
 - 🔭 &nbsp; I’m currently studying in **Naver Boostcamp AI Tech**
-- 🌱 &nbsp; I’m currently DL(Speech, NLP) and MLOps
-- 📝 &nbsp; Watch my [blog](https://l-yohai.github.io)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/l-yohai?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 
 ---
 
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help
+### 🧾 Hot Posts:
 
+- ✏️ &nbsp; AI Competition [Planning Guide](https://github.com/l-yohai/Boostcamp-AI-Tech/blob/main/pstage_1/planning_guide.md)
+- ✏️ &nbsp; 42 Seoul [Memoir](https://l-yohai.github.io/42Seoul-%EB%A7%88%EC%A7%80%EB%A7%89-%EA%B3%B5%ED%86%B5%EA%B3%BC%EC%A0%9C%EB%A5%BC-%EC%95%9E%EB%91%90%EA%B3%A0-%EB%BC%88%EB%AC%B8%EA%B3%BC-%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90%EA%B0%80-%EA%B2%BD%ED%97%98%ED%95%9C-1%EB%85%84%EA%B0%84%EC%9D%98-%ED%9A%8C%EA%B3%A0%EB%A1%9D/)
+- ✏️ &nbsp; [WaveNet Review](https://l-yohai.github.io/WaveNet-Review/)
+- ✏️ &nbsp; [Develop Multiplexing Server using socket and select](https://l-yohai.github.io/%EC%86%8C%EC%BC%93%EA%B3%BC-select%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%A9%80%ED%8B%B0%ED%94%8C%EB%A0%89%EC%8B%B1-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/)
 
 <br>
 <br>
