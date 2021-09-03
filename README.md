@@ -23,11 +23,6 @@
 - ✏️ &nbsp; [Develop Multiplexing Server using socket and select](https://l-yohai.github.io/%EC%86%8C%EC%BC%93%EA%B3%BC-select%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%A9%80%ED%8B%B0%ED%94%8C%EB%A0%89%EC%8B%B1-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/)
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
