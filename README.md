@@ -1,19 +1,22 @@
-## Hey 👋, I'm Rahul Jha!
+## Hey 👋, I'm Yohan Lee!
 
 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="Code typing.gif" width="360px"/>
-  
-### 🧐 More About Me:
+<div>
+    <img align="right" alt="GIF" src="Code typing.gif" width="360px"/>
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently DL(Speech, NLP) and MLOps;
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/l-yohai?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+    ### 🧐 More About Me:
+
+    - 🔭 &nbsp; I’m currently working on **youtube-audio-player**
+    - 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
+    - 🌱 &nbsp; I’m currently DL(Speech, NLP) and MLOps;
+    - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/l-yohai?tab=repositories)
+    - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+
+</div>
 
 <br>
 
