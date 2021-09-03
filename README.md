@@ -6,14 +6,6 @@
 <tr>
 <td valign="top" width="50%">
 
-#### 🏋️‍♀️ <a href="" target="_blank">Recent Works</a>
-
-<!-- recent_releases starts -->
-* <a href='' target='_blank'>42 Seoul</a> - 2020-02-28 ~
-* <a href='' target='_blank'>Naver Boostcamp AI Tech</a> - 2020-08-02 ~
-<!-- recent_releases ends -->
-
-</td>
 <td valign="top" width="50%">
 
 #### 🤹‍♀️ <a href="https://l-yohai.github.io/" target="_blank">Hot Blog</a>
@@ -25,6 +17,14 @@
 * <a href='https://l-yohai.github.io/Your-True-Review-%EA%B0%90%EC%A0%95%EB%B6%84%EC%84%9D%EA%B8%B0%EB%B0%98-%EC%98%81%ED%99%94-%EB%A6%AC%EB%B7%B0-%ED%8F%89%EC%A0%90-%EC%98%88%EC%B8%A1-%EC%84%9C%EB%B9%84%EC%8A%A4/' target='_blank'>Your-True-Review 감정분석기반 영화리뷰 평점 예측 서비스</a> - 2020-09-21
 * <a href='https://l-yohai.github.io/Papago-NMT-API%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EC%9E%90%EB%8F%99%EB%B2%88%EC%97%AD-%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%B1%97%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0/' target='_blank'>Papago NMT API를 이용하여 자동번역 카카오챗봇 만들기</a> - 2020-06-06
 <!-- blog ends -->
+
+</td>
+#### 🏋️‍♀️ <a href="" target="_blank">Recent Works</a>
+
+<!-- recent_releases starts -->
+* <a href='' target='_blank'>42 Seoul</a> - 2020-02-28 ~
+* <a href='' target='_blank'>Naver Boostcamp AI Tech</a> - 2020-08-02 ~
+<!-- recent_releases ends -->
 
 </td>
 </tr>
