@@ -1,9 +1,6 @@
 ## Hey 👋, I'm Yohan Lee!
 
 
-<br/>
-<br/>
-
 <img align="right" alt="GIF" src="Code typing.gif" width="360px"/>
 
 <br>
