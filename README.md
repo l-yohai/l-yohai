@@ -18,8 +18,7 @@
 
 - 🌱 &nbsp; I’m Deeplearning Engineer.
 - 🔭 &nbsp; I’m currently studying in **Naver Boostcamp AI Tech**
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/l-yohai?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help
+- 👨🏻‍💻 &nbsp; I'm interested in **NLP, MLOps**
 
 ---
 
