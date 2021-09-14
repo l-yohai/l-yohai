@@ -3,16 +3,6 @@
 
 <img align="right" alt="GIF" src="Code typing.gif" width="360px"/>
 
-<br>
-<br>
-
-### 🧐 More About Me:
-
-- 🌱 &nbsp; I’m Deeplearning Engineer.
-- 🔭 &nbsp; I’m currently studying in **Naver Boostcamp AI Tech**
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/l-yohai?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](	https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -22,6 +12,14 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+<br>
+
+### 🧐 More About Me:
+
+- 🌱 &nbsp; I’m Deeplearning Engineer.
+- 🔭 &nbsp; I’m currently studying in **Naver Boostcamp AI Tech**
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/l-yohai?tab=repositories)
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help
 
 ---
 
