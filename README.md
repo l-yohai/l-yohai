@@ -2,8 +2,6 @@
 
 <img align="right" alt="GIF" src="Code typing.gif" width="360px"/>
 
-<br>
-
 ### 🧐 More About Me:
 
 - 🌱 &nbsp; I’m Deeplearning Engineer.
