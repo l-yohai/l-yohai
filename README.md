@@ -24,6 +24,16 @@
 
 <br>
 
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://github.com/l-yohai/github-stats-transparent/blob/output/generated/overview.svg)
+![Most Used Languages](https://github.com/l-yohai/github-stats-transparent/blob/output/generated/languages.svg)
+
+</a>
+
+<br>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](	https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -35,14 +45,6 @@
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 <br>
-
-### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://github.com/l-yohai/github-stats-transparent/blob/output/generated/overview.svg)
-![Most Used Languages](https://github.com/l-yohai/github-stats-transparent/blob/output/generated/languages.svg)
-
-</a>
 
 <!--
 **l-yohai/l-yohai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
