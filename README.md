@@ -5,7 +5,7 @@
 ### 🧐 More About Me:
 
 - 🌱 &nbsp; I’m Deeplearning Engineer.
-- 🔭 &nbsp; I’m currently studying in **Naver Boostcamp AI Tech**
+- 🔭 &nbsp; I’m currently working in **TUNiB**
 - 👨🏻‍💻 &nbsp; I'm interested in **NLP, MLOps**
 
 ---
