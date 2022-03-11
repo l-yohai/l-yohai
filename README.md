@@ -9,7 +9,7 @@
 
 ### Interested in:
 
-- Dialogue chatbot
+- Open-Domain Dialogue Chatbot
 - Sequence Generation
 - Model Parallelism
 - Large-scale model serving
