@@ -5,7 +5,7 @@
 - NLP Engineer of [TUNiB](https://tunib.ai/)
 - Large-scale Language Model engineering supporter at [Oslo](https://github.com/tunib-ai/oslo), [HuggingFace 3D parallelism project](https://github.com/huggingface/transformers/issues/13690) and [EleutherAI](https://github.com/eleutherai)
 - Studied at [42Seoul](https://42seoul.kr/seoul42/main/view) and [Naver Boostcamp AI Tech](https://boostcamp.connect.or.kr/program_ai.html)
-- Bachelor of German Langauge and Literature in Yonsei University.
+- Bachelor of German Langauge and Literature in Yonsei University
 
 
 <!--
