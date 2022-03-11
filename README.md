@@ -7,6 +7,12 @@
 - Studied at [42Seoul](https://42seoul.kr/seoul42/main/view) and [Naver Boostcamp AI Tech](https://boostcamp.connect.or.kr/program_ai.html)
 - Bachelor of German Langauge and Literature in Yonsei University
 
+### Interested in:
+
+- Dialogue chatbot
+- Sequence Generation
+- Model Parallelism
+- Large-scale model serving
 
 <!--
 **l-yohai/l-yohai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
