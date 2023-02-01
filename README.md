@@ -2,8 +2,7 @@
 
 ### More About Me:
 
-- NLP Engineer of [TUNiB](https://tunib.ai/)
-- Large-scale Language Model engineering supporter at [Oslo](https://github.com/tunib-ai/oslo), [HuggingFace 3D parallelism project](https://github.com/huggingface/transformers/issues/13690) and [EleutherAI](https://github.com/eleutherai)
+- NLP Engineer
 - Studied at [42Seoul](https://42seoul.kr/seoul42/main/view) and [Naver Boostcamp AI Tech](https://boostcamp.connect.or.kr/program_ai.html)
 - Bachelor of German Langauge and Literature in Yonsei University
 
@@ -11,8 +10,7 @@
 
 - Open Domain Dialogue Chatbot
 - Sequence Generation
-- Model Parallelism
-- Large-scale model serving
+- Machine Reading Comprehension
 
 <!--
 **l-yohai/l-yohai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
