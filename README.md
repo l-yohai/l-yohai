@@ -2,7 +2,8 @@
 
 ### More About Me:
 
-- NLP Engineer
+- NLP Research Scientist in Riiid
+- Former NLP Engineer in TUNiB
 - Studied at [42Seoul](https://42seoul.kr/seoul42/main/view) and [Naver Boostcamp AI Tech](https://boostcamp.connect.or.kr/program_ai.html)
 - Bachelor of German Langauge and Literature in Yonsei University
 
