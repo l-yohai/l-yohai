@@ -9,10 +9,9 @@
 
 ### Interested in:
 
-- Business Service with Large Language Model
+- LLM Instruction Tuning 
 - Text Qualification & Scoring
-- Open Domain Dialogue Chatbot
-- Open Domain Question Answering
+- Open Domain Dialogue Chatbot, QA
 
 <!--
 **l-yohai/l-yohai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
