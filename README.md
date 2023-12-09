@@ -2,16 +2,14 @@
 
 ### More About Me:
 
-- NLP Research Scientist in Riiid
+- Research Scientist(NLP) in Riiid
 - Former NLP Engineer in TUNiB
-- Studied at [42Seoul](https://42seoul.kr/seoul42/main/view) and [Naver Boostcamp AI Tech](https://boostcamp.connect.or.kr/program_ai.html)
 - Bachelor of German Langauge and Literature in Yonsei University
 
 ### Interested in:
 
-- LLM Instruction Tuning 
-- Text Qualification & Scoring
-- Open Domain Dialogue Chatbot, QA
+- Large Language Models
+- Data-centric AI
 
 <!--
 **l-yohai/l-yohai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
