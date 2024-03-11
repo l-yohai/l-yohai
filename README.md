@@ -2,7 +2,8 @@
 
 ### More About Me:
 
-- Research Scientist(NLP) in Riiid
+- AI/ML Engineer in wrtn
+- Former Research Scientist(NLP) in Riiid
 - Former NLP Engineer in TUNiB
 - Bachelor of German Langauge and Literature in Yonsei University
 
