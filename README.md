@@ -2,7 +2,7 @@
 
 ### More About Me:
 
-- AI/ML Engineer in wrtn
+- AI/ML Engineer in WRTN-Technologies
 - Former Research Scientist(NLP) in Riiid
 - Former NLP Engineer in TUNiB
 - Bachelor of German Langauge and Literature in Yonsei University
