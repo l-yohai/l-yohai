@@ -3,7 +3,8 @@
 ### More About Me:
 
 - AI Researcher in Align AI
-- Research Intern in Seoul National University GSDS - Structure & Knowledge Injection into Machine Learning Lab, Prof. Jay-Yoon Lee
+- Research Intern in Seoul National University GSDS
+  - Structure & Knowledge Injection into Machine Learning Lab, Prof. Jay-Yoon Lee
 - Former AI Research Engineer (NLP Specialist) in WRTN-Technologies
 - Former Research Scientist(NLP) in Riiid
 - Former NLP Engineer in TUNiB
