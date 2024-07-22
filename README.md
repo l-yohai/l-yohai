@@ -2,7 +2,8 @@
 
 ### More About Me:
 
-- AI Research Engineer (NLP Specialist) in WRTN-Technologies
+- AI Researcher in Align AI
+- Former AI Research Engineer (NLP Specialist) in WRTN-Technologies
 - Former Research Scientist(NLP) in Riiid
 - Former NLP Engineer in TUNiB
 - Bachelor of German Langauge and Literature in Yonsei University
