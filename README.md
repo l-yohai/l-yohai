@@ -3,7 +3,7 @@
 ### More About Me:
 
 - AI Researcher in [Align AI](https://tryalign.ai/)
-- Former Research Intern in Seoul National University GSDS
+- Former Research Assistant in Seoul National University GSDS
   - [Structure & Knowledge Injection into Machine Learning Lab](https://www.skiml.snu.ac.kr/), Prof. Jay-Yoon Lee
 - Former AI Research Engineer (NLP Specialist) in WRTN-Technologies
 - Former Research Scientist(NLP) in Riiid
