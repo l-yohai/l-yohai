@@ -2,7 +2,8 @@
 
 ### More About Me:
 
-- AI Researcher in [Align AI](https://tryalign.ai/)
+- AI Research Engineer in KakaoBank
+- Former AI Researcher in [Coxwave, Align](https://tryalign.ai/)
 - Former Research Assistant in Seoul National University GSDS
   - [Structure & Knowledge Injection into Machine Learning Lab](https://www.skiml.snu.ac.kr/), Prof. Jay-Yoon Lee
 - Former AI Research Engineer (NLP Specialist) in WRTN-Technologies
