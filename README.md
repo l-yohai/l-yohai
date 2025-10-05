@@ -48,25 +48,23 @@ This connects deeply to my broader pursuit: **aligning artificial reasoning with
 
 ## 🏆 Publications
 
-- **Finding Diamonds in Conversation Haystacks: A Benchmark for Conversational Data Retrieval**  
-  *EMNLP 2025 (Industry Track)* — The first benchmark for conversational retrieval, exposing model weaknesses.  
-  _Yohan Lee, Yongwoo Song, Sangyeop Kim†_
+- **Finding Diamonds in Conversation Haystacks: A Benchmark for Conversational Data Retrieval** (*EMNLP 2025 Industry*) \
+  _**Yohan Lee**, Yongwoo Song, Sangyeop Kim†_
 
-- **PREMem: Pre-Storage Reasoning for Episodic Memory**  
-  *EMNLP 2025 (Findings)* — Shifting reasoning to memory construction for personalized dialogue.  
-  _Sangyeop Kim*, Yohan Lee*, Sanghwa Kim, Hyunjong Kim, Sungzoon Cho†_
+- **PREMem: Pre-Storage Reasoning for Episodic Memory** (*EMNLP 2025*) \
+  <a href="https://arxiv.org/abs/2509.10852"><img src="https://img.shields.io/badge/arXiv-2509.10852-b31b1b.svg" height="18"></a> \
+  _Sangyeop Kim*, **Yohan Lee***, Sanghwa Kim, Hyunjong Kim, Sungzoon Cho†_
 
-- **What Really Matters in Many-Shot Attacks? An Empirical Study of Long-Context Vulnerabilities in LLMs**  
-  *ACL 2025 (Main)* — Revealing that context length, not shot count, drives long-context vulnerabilities.  
-  _Sangyeop Kim*, Yohan Lee*, Yongwoo Song*, Kimin Lee†_
+- **What Really Matters in Many-Shot Attacks? An Empirical Study of Long-Context Vulnerabilities in LLMs** (*ACL 2025*) \
+  <a href="https://arxiv.org/abs/2505.19773"><img src="https://img.shields.io/badge/arXiv-2505.19773-b31b1b.svg" height="18"></a> \
+  _Sangyeop Kim*, **Yohan Lee***, Yongwoo Song*, Kimin Lee†_
 
-- **HEISIR: Hierarchical Expansion of Inverted Semantic Indexing for Training-free Retrieval of Conversational Data using LLMs**  
-  *NAACL 2025 (Findings)* — Training-free retrieval via hierarchical semantic indexing.  
-  _Sangyeop Kim†, Hangyeul Lee, Yohan Lee_
+- **HEISIR: Hierarchical Expansion of Inverted Semantic Indexing for Training-free Retrieval of Conversational Data using LLMs** (*NAACL 2025*) \
+  <a href="https://arxiv.org/abs/2503.04141"><img src="https://img.shields.io/badge/arXiv-2503.04141-b31b1b.svg" height="18"></a> \
+  _Sangyeop Kim†, Hangyeul Lee, **Yohan Lee**_
 
-- **SAFARI: Sample-specific Assessment Framework for AI in Real-world Interactions**  
-  *NAACL 2025 (Findings)* — Automated multilingual evaluation framework for LLMs using real-world conversational data.  
-  _Yohan Lee*, Sungho Park*, Sangwoo Han*, Yunsung Lee*†, Yongwoo Song, Adam Lee, Jiwung Hyun, Jaemin Kim, HyeJin Gong_
+- **SAFARI: Sample-specific Assessment Framework for AI in Real-world Interactions** (*NAACL 2025*) \
+  _**Yohan Lee***, Sungho Park*, Sangwoo Han*, Yunsung Lee*†, Yongwoo Song, Adam Lee, Jiwung Hyun, Jaemin Kim, HyeJin Gong_
 
 ---
 
