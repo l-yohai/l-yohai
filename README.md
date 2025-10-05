@@ -10,8 +10,7 @@
 I’m an **AI Research Engineer at KakaoBank**, focusing on **post-training and optimization of large language models** that power real-world services for **26M+ active users**.  
 My work explores how **reasoning, memory, and alignment** can be reimagined to make LLMs both *cognitively inspired* and *production-ready*.
 
-Rather than scaling parameters alone, I study how models can **think more like humans** —  
-reasoning in parallel, integrating contextual memory, and aligning with human trust and intention.
+Rather than scaling parameters alone, I study how models can **think more like humans** —  reasoning in parallel, integrating contextual memory, and aligning with human trust and intention.
 
 ---
 
@@ -72,5 +71,4 @@ This connects deeply to my broader pursuit: **aligning artificial reasoning with
 
 ---
 
-> _“AI should not only scale in size, but in understanding —  
-reasoning with reflection, memory, and humanity.”_
+> _“AI should not only scale in size, but in understanding reasoning with reflection, memory, and humanity.”_
