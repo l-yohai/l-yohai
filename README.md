@@ -45,7 +45,7 @@ This connects deeply to my broader pursuit: **aligning artificial reasoning with
 - **Finding Diamonds in Conversation Haystacks: A Benchmark for Conversational Data Retrieval** (*EMNLP 2025 Industry*) \
   _**Yohan Lee**, Yongwoo Song, Sangyeop Kim†_
 
-- **PREMem: Pre-Storage Reasoning for Episodic Memory** (*EMNLP 2025*) \
+- **Pre-Storage Reasoning for Episodic Memory: Shifting Inference Burden to Memory for Personalized Dialogue** (*EMNLP 2025*) \
   <a href="https://arxiv.org/abs/2509.10852"><img src="https://img.shields.io/badge/arXiv-2509.10852-b31b1b.svg" height="18"></a> \
   _Sangyeop Kim*, **Yohan Lee***, Sanghwa Kim, Hyunjong Kim, Sungzoon Cho†_
 
