@@ -18,30 +18,25 @@ reasoning in parallel, integrating contextual memory, and aligning with human tr
 ## 🔭 Research Focus
 
 ### 🧠 Human-like Reasoning
-Current LLMs reason **sequentially**, generating one token at a time.  
-Inspired by recent directions such as *Soft Token Reasoning* ([arXiv:2509.19170](https://arxiv.org/abs/2509.19170)),  
-I’m exploring ways to enable **parallel and continuous inference** —  
-models that can revise, aggregate, and evolve thoughts before producing answers.  
+Current LLMs reason **sequentially**, generating one token at a time.  \
+Inspired by recent directions such as *Soft Token Reasoning* ([arXiv:2509.19170](https://arxiv.org/abs/2509.19170)), I’m exploring ways to enable **parallel and continuous inference** — models that can revise, aggregate, and evolve thoughts before producing answers.  \
 This connects symbolic reasoning with diffusion-like latent dynamics, aiming for *human-parallel cognition*.
 
 ### ⚙️ Scalable Reasoning Systems
-At KakaoBank, I lead **post-training and inference optimization** for **200B+ parameter LLMs**,  
-building high-impact reasoning agents in financial and service domains.  
+At KakaoBank, I lead **post-training and inference optimization** for **200B+ parameter LLMs**, building high-impact reasoning agents in financial and service domains.  
+
 My work centers on:
 - **Interleaved reasoning** combining function calls, memory, and tool use  
 - **Multi-instruction reasoning**, enabling one instruction to branch into multiple sub-tasks  
 - **Latency-optimized alignment**, balancing inference speed with reasoning depth  
 
 ### 🧬 Memory & Cognitive Modeling
-Following earlier work on **episodic and structured memory (PREMem, 2025)**,  
-I study how models can construct and manage internal memory representations —  
-learning to **consolidate**, **forget**, and **contextualize** experiences across sessions.  
+Following earlier work on **episodic and structured memory (PREMem, 2025)**, I study how models can construct and manage internal memory representations — learning to **consolidate**, **forget**, and **contextualize** experiences across sessions. \
 The goal is a reasoning loop that grounds decisions in structured, evolving memory.
 
 ### 🛡️ Trustworthy & Human-Aligned AI
 Reasoning and memory must ultimately be *safe*.  
-I develop and evaluate methods that ensure **consistency, transparency, and calibration** in model outputs —  
-AI systems that *reflect before responding* and can *justify their reasoning processes*.  
+I develop and evaluate methods that ensure **consistency, transparency, and calibration** in model outputs — AI systems that *reflect before responding* and can *justify their reasoning processes*. \
 This connects deeply to my broader pursuit: **aligning artificial reasoning with human cognition and ethics**.
 
 ---
