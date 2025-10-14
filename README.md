@@ -1,8 +1,6 @@
 # 🧠 Yohan Lee (요한)
 ### AI Research Engineer @ KakaoBank | Building Reasoning Systems at Human & Model Scale
 
-> _Designing language models that think, remember, and reason — like humans, but at scale._
-
 ---
 
 ## 🧩 About Me
@@ -43,6 +41,7 @@ This connects deeply to my broader pursuit: **aligning artificial reasoning with
 ## 🏆 Publications
 
 - **Finding Diamonds in Conversation Haystacks: A Benchmark for Conversational Data Retrieval** (*EMNLP 2025 Industry*) \
+  <a href="https://arxiv.org/abs/2510.02938"><img src="https://img.shields.io/badge/arXiv-2510.02938-b31b1b.svg" height="18"></a> \
   _**Yohan Lee**, Yongwoo Song, Sangyeop Kim†_
 
 - **Pre-Storage Reasoning for Episodic Memory: Shifting Inference Burden to Memory for Personalized Dialogue** (*EMNLP 2025*) \
@@ -70,5 +69,3 @@ This connects deeply to my broader pursuit: **aligning artificial reasoning with
 📧 yhlee.nlp [at] gmail.com  
 
 ---
-
-> _“AI should not only scale in size, but in understanding reasoning with reflection, memory, and humanity.”_
