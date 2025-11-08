@@ -153,14 +153,14 @@ _Sangyeop Kim*, **Yohan Lee***, Yongwoo Song*, Kimin Lee†_
 ---
 
 📄 **HEISIR: Hierarchical Expansion of Inverted Semantic Indexing** 🔍
-[![NAACL](https://img.shields.io/badge/NAACL_2025-Main-9C27B0?style=flat-square)](https://arxiv.org/abs/2503.04141)
+[![NAACL](https://img.shields.io/badge/NAACL_2025-Findings-9C27B0?style=flat-square)](https://arxiv.org/abs/2503.04141)
 [![arXiv](https://img.shields.io/badge/arXiv-2503.04141-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2503.04141)
 _Sangyeop Kim†, Hangyeul Lee, **Yohan Lee**_
 
 ---
 
 📄 **SAFARI: Sample-specific Assessment Framework** 📊
-[![NAACL](https://img.shields.io/badge/NAACL_2025-Main-9C27B0?style=flat-square)]()
+[![NAACL](https://img.shields.io/badge/NAACL_2025-Findings-9C27B0?style=flat-square)]()
 _**Yohan Lee***, Sungho Park*, Sangwoo Han*, Yunsung Lee*†, and team_
 
 </details>
@@ -199,11 +199,12 @@ _**Yohan Lee***, Sungho Park*, Sangwoo Han*, Yunsung Lee*†, and team_
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=l-yohai&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=l-yohai&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=l-yohai&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&count_private=true" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=l-yohai&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-yohai&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=l-yohai&theme=redical&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=C9D1D9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-yohai&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8" height="180" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=l-yohai&theme=redical&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=C9D1D9" width="100%" />
 
 </div>
 
