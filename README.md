@@ -133,13 +133,15 @@ graph LR
 📄 **Finding Diamonds in Conversation Haystacks** 💎
 [![EMNLP](https://img.shields.io/badge/EMNLP_2025-Industry-FFD700?style=flat-square)](https://arxiv.org/abs/2510.02938)
 [![arXiv](https://img.shields.io/badge/arXiv-2510.02938-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2510.02938)
+
 _**Yohan Lee**, Yongwoo Song, Sangyeop Kim†_
 
 ---
 
 📄 **Pre-Storage Reasoning for Episodic Memory** 🧠
-[![EMNLP](https://img.shields.io/badge/EMNLP_2025-Main-FFD700?style=flat-square)](https://arxiv.org/abs/2509.10852)
+[![EMNLP](https://img.shields.io/badge/EMNLP_2025-Findings-FFD700?style=flat-square)](https://arxiv.org/abs/2509.10852)
 [![arXiv](https://img.shields.io/badge/arXiv-2509.10852-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2509.10852)
+
 _Sangyeop Kim*, **Yohan Lee***, Sanghwa Kim, Hyunjong Kim, Sungzoon Cho†_
 > **PREMem:** Shifting inference burden to memory for smarter dialogue
 
@@ -148,6 +150,7 @@ _Sangyeop Kim*, **Yohan Lee***, Sanghwa Kim, Hyunjong Kim, Sungzoon Cho†_
 📄 **What Really Matters in Many-Shot Attacks?** 🛡️
 [![ACL](https://img.shields.io/badge/ACL_2025-Main-4CAF50?style=flat-square)](https://arxiv.org/abs/2505.19773)
 [![arXiv](https://img.shields.io/badge/arXiv-2505.19773-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2505.19773)
+
 _Sangyeop Kim*, **Yohan Lee***, Yongwoo Song*, Kimin Lee†_
 
 ---
@@ -155,12 +158,14 @@ _Sangyeop Kim*, **Yohan Lee***, Yongwoo Song*, Kimin Lee†_
 📄 **HEISIR: Hierarchical Expansion of Inverted Semantic Indexing** 🔍
 [![NAACL](https://img.shields.io/badge/NAACL_2025-Findings-9C27B0?style=flat-square)](https://arxiv.org/abs/2503.04141)
 [![arXiv](https://img.shields.io/badge/arXiv-2503.04141-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2503.04141)
+
 _Sangyeop Kim†, Hangyeul Lee, **Yohan Lee**_
 
 ---
 
 📄 **SAFARI: Sample-specific Assessment Framework** 📊
 [![NAACL](https://img.shields.io/badge/NAACL_2025-Findings-9C27B0?style=flat-square)]()
+
 _**Yohan Lee***, Sungho Park*, Sangwoo Han*, Yunsung Lee*†, and team_
 
 </details>
@@ -204,7 +209,7 @@ _**Yohan Lee***, Sungho Park*, Sangwoo Han*, Yunsung Lee*†, and team_
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-yohai&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8" height="180" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=l-yohai&theme=redical&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=C9D1D9" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=l-yohai&theme=redical&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=C9D1D9" height="180" />
 
 </div>
 
