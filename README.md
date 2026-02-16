@@ -9,7 +9,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://l-yohai.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l-yohai/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yhlee.nlp@gmail.com)
-[![Location](https://img.shields.io/badge/Seoul,_South_Korea-🌏-blue?style=for-the-badge)]()
 
 <!-- Profile Views Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=l-yohai&label=Profile%20Views&color=0e75b6&style=for-the-badge)
@@ -67,3 +66,11 @@ _Sangyeop Kim†, Hangyeul Lee, **Yohan Lee**_
 [![NAACL](https://img.shields.io/badge/NAACL_2025-Findings-9C27B0?style=flat-square)]()
 
 _**Yohan Lee***, Sungho Park*, Sangwoo Han*, Yunsung Lee*†, and team_
+
+---
+
+<div align="center">
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/yohan.lee)
+
+</div>
