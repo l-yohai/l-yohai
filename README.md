@@ -1,23 +1,4 @@
-<div align="center">
-
-<!-- Dynamic Typing Header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=800&lines=Hi+%F0%9F%91%8B+I'm+Yohan+Lee+(%EC%9A%94%ED%95%9C);AI+Research+Engineer+%40+KakaoBank+%F0%9F%8F%A6;Building+Reasoning+Systems+%F0%9F%A7%A0;Human-like+AI+%E2%9C%A8)](https://git.io/typing-svg)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
-
-<!-- Social Badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://l-yohai.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l-yohai/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yhlee.nlp@gmail.com)
-
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=l-yohai&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-
-</div>
-
----
-
-## 🧠 **About Me**
+## **About Me**
 
 I’m an AI Research Engineer at KakaoBank, building reasoning-focused LLM systems for production services used by 26M+ users.
 
@@ -35,37 +16,59 @@ Contact: yhlee.nlp [at] gmail.com
 
 ---
 
-## 🏆 **Publications**
+## **Publications**
 
-📄 **Finding Diamonds in Conversation Haystacks** 💎
-[![EMNLP](https://img.shields.io/badge/EMNLP_2025-Industry-FFD700?style=flat-square)](https://arxiv.org/abs/2510.02938)
-[![arXiv](https://img.shields.io/badge/arXiv-2510.02938-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2510.02938)
+<table>
+  <tr>
+    <th align="left">Title</th>
+    <th align="left">Authors</th>
+    <th align="left">Venue</th>
+    <th align="left">Link</th>
+  </tr>
 
-_**Yohan Lee**, Yongwoo Song, Sangyeop Kim†_
+  <tr>
+    <td><strong>Overthinking Loops in Agents: A Structural Risk via MCP Tools</strong></td>
+    <td><em><strong>Yohan Lee</strong>, Jisoo Jang, Seoyeon Choi, Sangyeop Kim, Seungtaek Choi†</em></td>
+    <td>arXiv 2026</td>
+    <td><a href="https://arxiv.org/abs/2602.14798">Paper</a></td>
+  </tr>
 
-📄 **Pre-Storage Reasoning for Episodic Memory** 🧠
-[![EMNLP](https://img.shields.io/badge/EMNLP_2025-Findings-FFD700?style=flat-square)](https://arxiv.org/abs/2509.10852)
-[![arXiv](https://img.shields.io/badge/arXiv-2509.10852-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2509.10852)
+  <tr>
+    <td><strong>Finding Diamonds in Conversation Haystacks</strong></td>
+    <td><em><strong>Yohan Lee</strong>, Yongwoo Song, Sangyeop Kim†</em></td>
+    <td>EMNLP 2025 (Industry)</td>
+    <td><a href="https://aclanthology.org/2025.emnlp-industry.162/">Paper</a></td>
+  </tr>
 
-_Sangyeop Kim*, **Yohan Lee***, Sanghwa Kim, Hyunjong Kim, Sungzoon Cho†_
-> **PREMem:** Shifting inference burden to memory for smarter dialogue
+  <tr>
+    <td><strong>Pre-Storage Reasoning for Episodic Memory</strong></td>
+    <td><em>Sangyeop Kim*, <strong>Yohan Lee</strong>*, Sanghwa Kim, Hyunjong Kim, Sungzoon Cho†</em></td>
+    <td>EMNLP 2025 (Findings)</td>
+    <td><a href="https://aclanthology.org/2025.findings-emnlp.1204/">Paper</a></td>
+  </tr>
 
-📄 **What Really Matters in Many-Shot Attacks?** 🛡️
-[![ACL](https://img.shields.io/badge/ACL_2025-Main-4CAF50?style=flat-square)](https://arxiv.org/abs/2505.19773)
-[![arXiv](https://img.shields.io/badge/arXiv-2505.19773-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2505.19773)
+  <tr>
+    <td><strong>What Really Matters in Many-Shot Attacks?</strong></td>
+    <td><em>Sangyeop Kim*, <strong>Yohan Lee</strong>*, Yongwoo Song*, Kimin Lee†</em></td>
+    <td>ACL 2025 (Main)</td>
+    <td><a href="https://aclanthology.org/2025.acl-long.101/">Paper</a></td>
+  </tr>
 
-_Sangyeop Kim*, **Yohan Lee***, Yongwoo Song*, Kimin Lee†_
+  <tr>
+    <td><strong>HEISIR: Hierarchical Expansion of Inverted Semantic Indexing</strong></td>
+    <td><em>Sangyeop Kim†, Hangyeul Lee, <strong>Yohan Lee</strong></em></td>
+    <td>NAACL 2025 (Findings)</td>
+    <td><a href="https://aclanthology.org/2025.findings-naacl.397/">Paper</a></td>
+  </tr>
 
-📄 **HEISIR: Hierarchical Expansion of Inverted Semantic Indexing** 🔍
-[![NAACL](https://img.shields.io/badge/NAACL_2025-Findings-9C27B0?style=flat-square)](https://arxiv.org/abs/2503.04141)
-[![arXiv](https://img.shields.io/badge/arXiv-2503.04141-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2503.04141)
+  <tr>
+    <td><strong>SAFARI: Sample-specific Assessment Framework</strong></td>
+    <td><em><strong>Yohan Lee</strong>*, Sungho Park*, Sangwoo Han*, Yunsung Lee*†, and team</em></td>
+    <td>NAACL 2025 (Findings)</td>
+    <td>-</td>
+  </tr>
 
-_Sangyeop Kim†, Hangyeul Lee, **Yohan Lee**_
-
-📄 **SAFARI: Sample-specific Assessment Framework** 📊
-[![NAACL](https://img.shields.io/badge/NAACL_2025-Findings-9C27B0?style=flat-square)]()
-
-_**Yohan Lee***, Sungho Park*, Sangwoo Han*, Yunsung Lee*†, and team_
+</table>
 
 ---
 
