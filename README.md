@@ -29,7 +29,7 @@ Contact: yhlee.nlp [at] gmail.com
   <tr>
     <td><strong>Overthinking Loops in Agents: A Structural Risk via MCP Tools</strong></td>
     <td><em><strong>Yohan Lee</strong>, Jisoo Jang, Seoyeon Choi, Sangyeop Kim, Seungtaek Choi†</em></td>
-    <td>arXiv 2026</td>
+    <td>-</td>
     <td><a href="https://arxiv.org/abs/2602.14798">Paper</a></td>
   </tr>
 
